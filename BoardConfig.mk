@@ -32,5 +32,3 @@ TARGET_OTA_ASSERT_DEVICE := dumpling,OnePlus5T,oneplus5t
 
 # inherit from the proprietary version
 -include vendor/oneplus/dumpling/BoardConfigVendor.mk
-
-DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
