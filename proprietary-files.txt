@@ -13,13 +13,13 @@ vendor/etc/acdbdata/adsp_avs_config.acdb
 vendor/etc/camera/imx398_chromatix.xml
 vendor/lib/libchromatix_imx398_3a_4608x3456_30fps_preview_bokeh.so
 vendor/lib/libchromatix_imx398_cpp_4608x3456_snapshot_bokeh.so
-vendor/lib/libmmcamera_imx398.so
+vendor/lib/libmmcamera_imx398.so|5d44cc3712297ba1754cc05406b3a15e155f6d84
 vendor/lib/libmmcamera2_iface_modules.so
 vendor/lib/libmmcamera2_imglib_modules.so
 vendor/lib/libmmcamera2_mct.so
 vendor/lib/libmmcamera2_sensor_modules.so
 vendor/lib/libmmcamera2_stats_modules.so
-vendor/lib/hw/camera.msm8998.so
+vendor/lib/hw/camera.msm8998.so|a1707d66b642890d4e0b6176d36057dd00069583
 
 # Fingerprint sensor
 vendor/lib/hw/fingerprint.msm8998.so:vendor/lib/hw/fingerprint.fpc.so
