@@ -7,6 +7,6 @@
     "repository":  "vendor_oneplus_dumpling",
     "target_path": "vendor/oneplus/dumpling",
     "branch": "ten",
-    "remote": "pixel-devices-bitbucket"
+    "remote": "pixel-devices-blobs"
   }
 ]
